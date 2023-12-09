@@ -8,7 +8,7 @@ Bibeln im HTML-Format zum offline lesen auf mobilen Geräten:
 
 * Herder 2005 1980. Quelle: github.com/bibel.
 
-* <<<NEU>>> Orsiander Bibel (Luther-Studienbibel). Umfangreiche Kommentare zu fast jedem Vers. Quelle: luther-predigt.de
+* N E U; Orsiander Bibel (Luther-Studienbibel). Umfangreiche Kommentare zu fast jedem Vers. Quelle: luther-predigt.de
 
 
 Alle Bibeln können problemlos mit einem Smartphone ab 5.5Zoll im Querformat über einen beliebigen installierten Webbrowser (Chrome, Firefox, Opera etc.) angezeigt werden (Empfehlung: Opera bis Version 66).
